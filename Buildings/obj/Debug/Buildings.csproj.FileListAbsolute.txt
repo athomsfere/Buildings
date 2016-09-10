@@ -1,0 +1,17 @@
+c:\users\tester\documents\visual studio 2013\Projects\Buildings\Buildings\bin\Debug\Buildings.exe.config
+c:\users\tester\documents\visual studio 2013\Projects\Buildings\Buildings\bin\Debug\Buildings.exe
+c:\users\tester\documents\visual studio 2013\Projects\Buildings\Buildings\bin\Debug\Buildings.pdb
+c:\users\tester\documents\visual studio 2013\Projects\Buildings\Buildings\bin\Debug\EntityFramework.dll
+c:\users\tester\documents\visual studio 2013\Projects\Buildings\Buildings\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\tester\documents\visual studio 2013\Projects\Buildings\Buildings\bin\Debug\EntityFramework.xml
+c:\users\tester\documents\visual studio 2013\Projects\Buildings\Buildings\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\tester\documents\visual studio 2013\Projects\Buildings\Buildings\obj\Debug\Buildings.csprojResolveAssemblyReference.cache
+c:\users\tester\documents\visual studio 2013\Projects\Buildings\Buildings\obj\Debug\MainWindow.baml
+c:\users\tester\documents\visual studio 2013\Projects\Buildings\Buildings\obj\Debug\MainWindow.g.cs
+c:\users\tester\documents\visual studio 2013\Projects\Buildings\Buildings\obj\Debug\App.g.cs
+c:\users\tester\documents\visual studio 2013\Projects\Buildings\Buildings\obj\Debug\Buildings_MarkupCompile.cache
+c:\users\tester\documents\visual studio 2013\Projects\Buildings\Buildings\obj\Debug\Buildings.g.resources
+c:\users\tester\documents\visual studio 2013\Projects\Buildings\Buildings\obj\Debug\Buildings.Properties.Resources.resources
+c:\users\tester\documents\visual studio 2013\Projects\Buildings\Buildings\obj\Debug\Buildings.csproj.GenerateResource.Cache
+c:\users\tester\documents\visual studio 2013\Projects\Buildings\Buildings\obj\Debug\Buildings.exe
+c:\users\tester\documents\visual studio 2013\Projects\Buildings\Buildings\obj\Debug\Buildings.pdb
